@@ -8,6 +8,7 @@ const FILES_TO_CACHE = [
   `/index.html`,
   `/js/index.js`,
   `/css/styles.css`,
+  `/manifest.json`,
 ];
 
 self.addEventListener("install", function (e) {
