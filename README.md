@@ -123,7 +123,6 @@ npm i mongoose
     "install": "^0.13.0",
     "mongodb": "^3.5.5",
     "mongoose": "^5.9.7",
-    "nodemon": "^2.0.2"
   }
 
 ```
